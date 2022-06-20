@@ -1,4 +1,3 @@
-//ch26/ex26.4/ex26.4.go
 package main
 
 import (
